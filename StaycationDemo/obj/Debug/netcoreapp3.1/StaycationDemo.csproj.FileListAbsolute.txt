@@ -1,0 +1,474 @@
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Pack.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StaycationDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StaycationDemo.props
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StaycationDemo.props
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StaycationDemo.props
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Pack.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StaycationDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StaycationDemo.props
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StaycationDemo.props
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StaycationDemo.props
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Index.cshtml.g.cs
+C:\Users\Decagon\Pictures\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Login\Login.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\source\repos\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Pack.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StaycationDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StaycationDemo.props
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StaycationDemo.props
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StaycationDemo.props
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\Documents\StaycationDemo\StaycationDemo\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\Asp.Net.Core\week-7-task-maxwellagu\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\SDSD DEV5\Downloads\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache
+C:\Users\Decagon\Documents\MySuites\Staycation-Week 7-Task\StaycationDemo\bin\Debug\netcoreapp3.1\Suite.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Suite.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.exe
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.deps.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Manifest.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\StaycationDemo.StaticWebAssets.Pack.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.StaycationDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.StaycationDemo.props
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.StaycationDemo.props
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.StaycationDemo.props
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.input.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.TagHelpers.output.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorCoreGenerate.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Login.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.RazorTargetAssemblyInfo.cs
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.Views.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.csproj.CopyComplete
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.dll
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.pdb
+C:\Users\Decagon\Desktop\Api\week-9-task-maxwellagu\Staycation-9-task\StaycationDemo\obj\Debug\netcoreapp3.1\StaycationDemo.genruntimeconfig.cache

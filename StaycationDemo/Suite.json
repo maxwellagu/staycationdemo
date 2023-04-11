@@ -1,0 +1,26 @@
+[
+  {
+    "HotelId": 1,
+    "Name": "Staycation",
+    "Location": "Asajon way",
+    "ShortDescription": "Beautiful suites",
+    "LongDescription": "Come and enjoy with your family and relax",
+    "IsBooked": false,
+    "IsMostPicked": true,
+    "ImageUrl": "ihjahsjh",
+    "Price": "23.5M",
+    "Category": {
+      "CategoryId": 1,
+      "CategoryName": "my hotel",
+      "Description": "Asajon villa"
+    },
+    "User": {
+      "Id": 1,
+      "FirstName": "Maxwell",
+      "LastName": "Ebuka",
+      "Email": "maxwe@m",
+      "Password": "Msgf386"
+    },
+
+  }
+]
